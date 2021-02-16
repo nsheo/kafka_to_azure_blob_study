@@ -1,0 +1,1 @@
+# kafka_to_azure_blob_study
